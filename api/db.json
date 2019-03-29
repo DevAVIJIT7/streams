@@ -4,6 +4,11 @@
       "title": "My Stream",
       "description": "Its Description",
       "id": 1
+    },
+    {
+      "title": "My Title",
+      "description": "Created By Me",
+      "id": 2
     }
   ]
 }
